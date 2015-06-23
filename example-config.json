@@ -1,0 +1,8 @@
+{
+  "cat_name": "Your cat's name",
+
+  "account_sid": "TWILIO ACCOUNT SID",
+  "auth_token": "TWILIO AUTH TOKEN",
+  "twilio_num": "ELEVENDIGITS",
+  "num_to_call": "YOUR PHONE NUMBER WITH COUNTRY CODE"
+}
