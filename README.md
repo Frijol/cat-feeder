@@ -19,7 +19,7 @@ I also want to poll the webservice at regular intervals, and if it's been too lo
 
 ### Materials
 
-* [Dry food dispenser](http://www.amazon.com/gp/product/B000NW5RRG)
+* [Dry food dispenser](https://amzn.to/2SyVaKi)
 
 ### Web
 
